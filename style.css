@@ -1,3 +1,7 @@
+body {
+  background: red;
+}
+
 .header {
   position: relative;
   display: flex;
@@ -21,9 +25,7 @@ h1:first-line {
   font-size: 28px
 }
 
-body {
-  background: red;
-}
+
 
 main {
   margin-left: 32%;
