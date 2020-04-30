@@ -1,0 +1,89 @@
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  margin: 0 auto;
+  width: 70%;
+}
+
+h1 {
+  position: absolute;
+  color: #222;
+  bottom: 0px;
+  margin-left: 22%;
+  font-size: 55px;
+}
+}
+h1:first-line {
+  font-size: 28px
+}
+
+
+main {
+  margin-left: 32%;
+  margin-right: 32%
+}
+
+.alma {
+  border-top: 5px solid #222222;
+  padding-top: 50px;
+}
+
+
+
+
+
+/*Szépészeti beavatkozások*/
+
+main {
+  line-height: 150%
+}
+
+.summary {
+  font-size: ;
+}
+h1, blockquote {
+  font-family: 'Abril Fatface', ;
+}
+blockquote {
+  background: #222222;
+  font-size: 45px;
+  color: white;
+  padding: 50px 0px;
+  margin: 50px auto;
+  width: 800px;
+  height: 100px;
+}
+blockquote::before {
+  content: open-quote;
+  font-size: 130px;
+  color: white;
+  
+}
+p, ul, h2, h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222222;
+  list-style-type: square;
+}
+li {
+  margin: 10px 0px;
+}
+H2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  margin: 50px 0px;
+}
+h3 {
+  font-size: 24px;
+  margin-bottom: 0px
+}
+
+h4 {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-size: 15px;
+  margin-top: 0px;
+}
